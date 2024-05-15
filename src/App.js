@@ -1,6 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
-import localweather from "InClassExercise1\StJohnsWeather.json";
+import localweather from "./StJohnsWeather.json";
 
 function App() {
   return (
